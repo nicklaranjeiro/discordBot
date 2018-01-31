@@ -156,4 +156,4 @@ bot.on('message', (message) => {
     }
 });
 
-bot.login('NDA4MDEwMDY2ODM1NTM3OTIy.DVJ0hQ.smUw1kYkwgXXwMmfuwbPROGxxio');
+bot.login('ommited');
